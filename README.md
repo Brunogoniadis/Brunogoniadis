@@ -1,7 +1,7 @@
 ### Olá, sou o Bruno! 👋
 <br>
 Aqui estão algumas ideias sobre mim:
-
+<br>
 - 🔭 Front-End Dev
 - 🌱 Mobile on React-Native
 - 🏫 Engenharia de Software - Unicesumar
