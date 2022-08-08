@@ -1,7 +1,11 @@
 ### Olá, sou o Bruno! 👋
 <br>
-Aqui estão algumas ideias sobre mim:
+Aqui estão algumas infromações sobre mim:
 <br>
+<br>
+<div>
+</div>
+
 - 🔭 Front-End Dev
 - 🌱 Mobile on React-Native
 - 🏫 Engenharia de Software - Unicesumar
@@ -19,6 +23,7 @@ Aqui estão algumas ideias sobre mim:
   <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bruno-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Bruno-Java" height="30" width="40" src="https://i.pinimg.com/originals/07/ca/4a/07ca4afbde70ce0c995b3f63e9c04ceb.png">
 </div>
   
 <br>
@@ -26,6 +31,7 @@ Aqui estão algumas ideias sobre mim:
 <div>
   <a href="https://instagram.com/brunogoniadis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-goniadis-1a0158135/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="brunogoniadislima@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
  
 <br>
