@@ -1,4 +1,4 @@
-### Olá, sou o Bruno! 👋
+### Olá, sou o Bruno Goniadis! 👋
 <br>
 Aqui estão algumas infromações sobre mim:
 <br>
