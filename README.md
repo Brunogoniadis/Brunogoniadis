@@ -6,8 +6,7 @@ Aqui estão algumas infromações sobre mim:
 <div>
 </div>
 
-- 🔭 Front-End Dev
-- 🌱 Mobile on React-Native
+- 🔭 Fullstack Dev
 - 🏫 Engenharia de Software - Unicesumar
 <br>
 <div align="left">
