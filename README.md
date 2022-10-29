@@ -6,7 +6,7 @@ Aqui estão algumas infromações sobre mim:
 <div>
 </div>
 
-- 🔭 Fullstack Dev
+- 🔭 Frontend Dev
 - 🏫 Engenharia de Software - Unicesumar
 <br>
 <div align="left">
